@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Apple Watch Series 6",
+        "price": "$399",
+        "version": "Series 6"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy Watch 4",
+        "price": "$249.99",
+        "version": "Galaxy Watch 4"
+    },
+    {
+        "id": 3,
+        "name": "Fitbit Versa 3",
+        "price": "$229.95",
+        "version": "Versa 3"
+    },
+    {
+        "id": 4,
+        "name": "Garmin Fenix 6 Pro",
+        "price": "$699.99",
+        "version": "Fenix 6 Pro"
+    },
+    {
+        "id": 5,
+        "name": "Huawei Watch GT 2",
+        "price": "$199.99",
+        "version": "Watch GT 2"
+    }
+]
